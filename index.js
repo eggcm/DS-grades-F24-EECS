@@ -33,7 +33,6 @@ function display() {
     H2: ${data[id].H2}
     H3: ${data[id].H3}
     H4: ${data[id].H4}
-    H6: ${data[id].H6}
     Mid: ${data[id].Mid}
     Fin: ${data[id].Fin}
     CPE: ${data[id].CPE}
